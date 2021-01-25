@@ -1,8 +1,8 @@
 //*****************************************************************************
                               /****** EEC 195B NATCAR ******/
 // Luke Alcantara
-// Quentin Zhong
 // Christopher Gan
+// Quentin Zhong
 
 #include <stdint.h>
 #include <stdbool.h>
