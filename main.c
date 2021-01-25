@@ -1,8 +1,8 @@
 //*****************************************************************************
                               /****** EEC 195B NATCAR ******/
 // Luke Alcantara
-// Quentin Zhong
 // Christopher Gan
+// Quentin Zhong
 // Code for the camera and servo together and motor and bluetooth
 
 #include <stdint.h>
